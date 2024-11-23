@@ -50,12 +50,4 @@ Este projeto é um site imobiliário voltado para atender pessoas interessadas e
 
 ---
 
-## **Tecnologias Utilizadas**
-- **Frontend**: HTML5, CSS3, JavaScript, Frameworks como React.js ou Vue.js.
-- **Backend**: Node.js, Python (Django/Flask) ou PHP (Laravel).
-- **Banco de Dados**: MySQL, PostgreSQL ou MongoDB.
-- **Hospedagem**: AWS, Google Cloud ou Azure.
-- **Outras Ferramentas**: APIs de geolocalização (Google Maps), sistemas de login social (Google/Facebook).
-
----
 
