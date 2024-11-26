@@ -5,3 +5,7 @@
 .body, main, footer{
     background-color: #F5F5DC;
 }
+.navbar-brand{
+    justify-self: center;
+    align-self: center;
+}
